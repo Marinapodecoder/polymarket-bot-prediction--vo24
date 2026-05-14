@@ -1,4 +1,4 @@
-# 
+# Polymarket updated Strategy: backtesting & gas-optimization is the best Polymarket strategy, featuring backtesting and gas-optimization. Smart, fast, and optimized for trading on
 
 
 
